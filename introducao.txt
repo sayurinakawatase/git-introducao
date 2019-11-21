@@ -1,0 +1,4 @@
+[sincronizar pasta do computador com projeto no github]
+abrir terminal, entrar na pasta e digitar
+git init
+git remote add origin https://github.com/sayurinakawatase/git-introducao.git
