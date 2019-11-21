@@ -2,3 +2,12 @@
 abrir terminal, entrar na pasta e digitar
 git init
 git remote add origin https://github.com/sayurinakawatase/git-introducao.git
+
+[jogar novo arquivo do computador para o github]
+git add <nome do arquivo> ou git add . (tudo o que eh diferente)
+
+etiquetar
+git commit -m "Adicionando novo arquivo e alterando introducao"
+
+enviar para github
+git push
